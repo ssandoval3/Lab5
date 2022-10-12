@@ -7,9 +7,17 @@ h1 {
   text-align: center;
   font-family: Lato, Helvetica, sans-serif;
   font-size: 64px;
+  color: white;
 }
 
-table{
+h2 {
+  text-align: center;
+  font-family: Lato, Helvetica, sans-serif;
+  font-size: 32px;
+  color: white;
+}
+
+table {
   text-align: center;
   table-layout: fixed;
   border-color: white
@@ -26,4 +34,20 @@ td{
   font-size: 18px;
   border-color: white
   color: white;
+}
+
+.mercury {
+  color: ghostwhite;
+}
+
+.venus {
+  color: darkgreen;
+}
+
+.earth {
+  color: dodgerblue;
+}
+
+.mars {
+  color: wheat;
 }
