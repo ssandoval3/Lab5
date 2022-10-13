@@ -19,13 +19,13 @@ h4 {
 table {
   text-align: center;
   table-layout: fixed;
-  border-color: white
+  border-color: white;
 }
 
 th {
   font-size: 22px;
   color: white;
-  border-color: white
+  border-color: white;
 }
 
 td{
