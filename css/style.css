@@ -26,12 +26,14 @@ th {
   font-size: 22px;
   color: white;
   border-color: white;
+  padding: 15px;
 }
 
 td{
   font-size: 18px;
   border-color: white;
   color: white;
+  padding: 15px;
 }
 
 .mercury {
