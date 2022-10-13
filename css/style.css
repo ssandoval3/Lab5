@@ -20,6 +20,7 @@ table {
   text-align: center;
   table-layout: fixed;
   border-color: white;
+  width: 90%;
 }
 
 th {
